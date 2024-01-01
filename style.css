@@ -1,0 +1,117 @@
+.navbar{
+    background-color: #085E7D !important;
+}
+.bg-dark{
+    background-color: #085E7D !important;
+}
+.nav-item{
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    margin: 0 5px;
+}
+.nav-item a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    padding: 8px;
+    
+}
+.nav-item a:hover{
+    cursor:pointer;
+    color: #bac1c2;
+   
+}
+.navbar{
+    display: inline-block;
+    text-align: right;
+    /* width: calc(100% - 99px); */
+    width: 100%;
+}
+.col-2{
+    display: inline-block;
+    width: 30%;
+    border: 3px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.button-view{
+width: 100%;
+}
+#map{
+    height: 450px;
+}
+.footer-sbt{
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body {
+    margin: 0;   
+     }
+
+
+.features__left{
+    background: url(images/laptop-computer-keyboard-technology.jpg);
+    background-size:cover;
+   
+}
+.features__right{
+    background-color: #edf5f7;
+    padding: 40px;
+    vertical-align: top;
+}
+
+.aboout{
+ display:inline-flex;
+ /* margin-left: 100px; */
+ margin-bottom: 0; 
+ max-width:100%;
+ height: auto;
+ 
+}
+
+.box{
+    flex: 1;    
+}
+#pp{
+    font-style: italic;
+    font-size: x-large;
+}
+
+.card .img-wrap{
+    height: 250px;
+    padding: .5rem;
+    display: block;
+}
+.card img{
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    object-fit: cover;
+}
+.card:hover{
+    background-color: #085E7D;
+    color: #fff;
+}
+.bold-text{
+    font-weight: bolder;
+}
+
+.card-body{
+    color: #fff;
+    
+}
+.header {
+        background-color: #a3c2c2;
+    }
+
+.main-navi{
+        display: inline-block;
+        text-align: right;
+        width: calc(100% - 99px);
+ }
+ 
